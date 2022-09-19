@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MANOVA.RM"]
-	path = MANOVA.RM
-	url = https://github.com/smn74/manova.rm
-	shallow = true
-	registered = true
