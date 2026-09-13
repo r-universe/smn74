@@ -5,3 +5,6 @@
 [submodule "MANOVA.RM"]
 	path = MANOVA.RM
 	url = https://github.com/smn74/manova.rm
+[submodule "rankMANOVA"]
+	path = rankMANOVA
+	url = https://github.com/smn74/rankmanova
